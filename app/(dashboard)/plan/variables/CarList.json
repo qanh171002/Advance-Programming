@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Bus",
+        "name": "Xe buýt",
+        "description": "Phù hợp chở nhiều hành khách.",
+        "mass": "10000",
+        "person": 50,
+        "img": "/img/cars/bus.png"
+    },
+    {
+        "type": "Truck",
+        "name": "Xe tải",
+        "description": "Phù hợp chở hàng hoá kích thước trung bình.",
+        "mass": "20000",
+        "person": 2,
+        "img": "/img/cars/truck.png"
+    },
+    {
+        "type": "ContainerTruck",
+        "name": "Xe container",
+        "description": "Phù hợp chở hàng hoá kích thước lớn.",
+        "mass": "40000",
+        "person": 2,
+        "img": "/img/cars/container.png"
+    }
+]
